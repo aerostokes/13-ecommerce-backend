@@ -73,7 +73,7 @@ Create, read, update, and delete database entries using the following endpoints/
    { "tag_name": "`string`" }
 - DELETE     /api/tags/`tag_id`     --delete single Tag with {tag_id}  
 
-See [Walk-Thru Video]() for a detailed walk-thru of installing and using the API with sample seed data using VS Code's Integrated Terminal and Insomnia REST API Client.
+See [Walk-Thru Video](https://drive.google.com/file/d/106RxDRU6HomRhZbcOihNFLZWGvx6cqMb/view) for a detailed walk-thru of installing and using the API with sample seed data using VS Code's Integrated Terminal and Insomnia REST API Client.
 
 ## License
 
