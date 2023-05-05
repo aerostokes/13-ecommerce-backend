@@ -70,10 +70,7 @@ Create, read, update, and delete database entries using the following endpoints/
      "productIds": `array of integers`  
     }
 - PUT     /api/tags/`tag_id`     --update a Tag with a JSON body:   
-   {  
-     "tag_name": "`string`",  
-     "productIds": `array of integers`  
-    }
+   { "tag_name": "`string`" }
 - DELETE     /api/tags/`tag_id`     --delete single Tag with {tag_id}  
 
 See [Walk-Thru Video]() for a detailed walk-thru of installing and using the API with sample seed data using VS Code's Integrated Terminal and Insomnia REST API Client.
